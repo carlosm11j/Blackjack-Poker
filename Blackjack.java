@@ -1,14 +1,7 @@
 package poker;
 
-import java.awt.BorderLayout;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.InputMismatchException;
-import java.util.Random;
 import java.util.Scanner;
-import java.util.Set;
-
-import javax.swing.JButton;
 
 public class Blackjack {
 
